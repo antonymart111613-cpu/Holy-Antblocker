@@ -46,8 +46,9 @@
     "puppeteer": "^24.29.1",
     "utf-8-validate": "^6.0.5",
     "ws": "^8.18.3"
-  },
-  "devDependencies": {
+
+    "devDependencies": {"dotenv-flow": "4.1.0"
+4}
     "@babel/node": "^7.28.0",
     "esbuild": "^0.25.12"
   }
